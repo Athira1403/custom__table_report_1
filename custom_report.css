@@ -143,13 +143,10 @@ table.reportTable td {
   margin: 4px;
 }
 
-/* Customization to shade rows with 'TOTAL REVENUE' in the first column */
-table.reportTable tr td:first-child:contains('TOTAL REVENUE') {
+/* Customization to shade the entire second row */
+table.reportTable tr:nth-child(2) td {
   background-color: rgba(128, 128, 128, 1); /* Grey color, fully opaque */
 }
 
-table.reportTable tr td:first-child:contains('TOTAL REVENUE') ~ td {
-  background-color: rgba(128, 128, 128, 1); /* Grey color, fully opaque */
-}
 
 
