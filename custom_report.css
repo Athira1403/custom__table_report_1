@@ -57,7 +57,7 @@
 thead {
   position: sticky;
   top: 0; /* This fixes the header to the top when scrolling */
-  z-index: 2;
+  z-index: 0;
   background-color: rgba(255, 255, 255, 0.9); /* Slightly transparent white background */
 }  
 table.reportTable th {
