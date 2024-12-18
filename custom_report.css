@@ -147,7 +147,7 @@ table.reportTable td {
 table.reportTable tr:nth-child(12),
 table.reportTable tr:nth-child(24),
 table.reportTable tr:nth-child(36) {
- background-color: rgba(128, 128, 128, 1); 
+ background-color: rgba(204,204,204, 1); 
 }
 
 
