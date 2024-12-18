@@ -144,7 +144,7 @@ table.reportTable td {
 }
 
 /* Customization to shade the entire second row */
-table.reportTable tr:nth-child(2) td {
+table.reportTable tr:nth-child(4) td {
   background-color: rgba(128, 128, 128, 1); /* Grey color, fully opaque */
 }
 
