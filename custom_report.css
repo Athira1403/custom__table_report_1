@@ -38,6 +38,15 @@
   font-weight: bold;
 }
 
+/* Customization to shade rows with 'TOTAL REVENUE' in the first column */
+table.reportTable tr td:first-child:contains('TOTAL REVENUE') {
+  background-color: #f0f0f0;
+}
+
+table.reportTable tr td:first-child:contains('TOTAL REVENUE') ~ td {
+  background-color: #f0f0f0;
+}
+
 .hidden {
   display: none;
 }
