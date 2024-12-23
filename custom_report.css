@@ -144,12 +144,12 @@ table.reportTable td {
 }
 
 
-table.reportTable tr:nth-child(12),
-table.reportTable tr:nth-child(24),
-table.reportTable tr:nth-child(36),
-table.reportTable tr:nth-child(48),
-table.reportTable tr:nth-child(77),
-table.reportTable tr:nth-child(79){
+table.reportTable tr:nth-child(14),
+table.reportTable tr:nth-child(27),
+table.reportTable tr:nth-child(40),
+table.reportTable tr:nth-child(53),
+table.reportTable tr:nth-child(84),
+table.reportTable tr:nth-child(86){
  background-color: rgba(204,204,204, 1); 
   font-weight: bold;
 }
