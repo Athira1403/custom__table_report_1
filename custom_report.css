@@ -145,11 +145,11 @@ table.reportTable td {
 
 
 table.reportTable tr:nth-child(13),
-table.reportTable tr:nth-child(27),
-table.reportTable tr:nth-child(40),
-table.reportTable tr:nth-child(53),
-table.reportTable tr:nth-child(84),
-table.reportTable tr:nth-child(86){
+table.reportTable tr:nth-child(26),
+table.reportTable tr:nth-child(39),
+table.reportTable tr:nth-child(52),
+table.reportTable tr:nth-child(82),
+table.reportTable tr:nth-child(84){
  background-color: rgba(204,204,204, 1); 
   font-weight: bold;
 }
