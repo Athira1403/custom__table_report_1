@@ -148,8 +148,8 @@ table.reportTable tr:nth-child(13),
 table.reportTable tr:nth-child(26),
 table.reportTable tr:nth-child(39),
 table.reportTable tr:nth-child(52),
-table.reportTable tr:nth-child(82),
-table.reportTable tr:nth-child(84){
+table.reportTable tr:nth-child(81),
+table.reportTable tr:nth-child(83){
  background-color: rgba(204,204,204, 1); 
   font-weight: bold;
 }
