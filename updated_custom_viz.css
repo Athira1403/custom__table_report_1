@@ -144,14 +144,14 @@ table.reportTable td {
 }
 
 
-table.reportTable tr:nth-child(13),
-table.reportTable tr:nth-child(26),
-table.reportTable tr:nth-child(39),
-table.reportTable tr:nth-child(52),
-table.reportTable tr:nth-child(53),
-table.reportTable tr:nth-child(54),
-table.reportTable tr:nth-child(55),
-table.reportTable tr:nth-child(56){
+table.reportTable tr:nth-child(14),
+table.reportTable tr:nth-child(28),
+table.reportTable tr:nth-child(42),
+table.reportTable tr:nth-child(56),
+table.reportTable tr:nth-child(57),
+table.reportTable tr:nth-child(58),
+table.reportTable tr:nth-child(59),
+table.reportTable tr:nth-child(60){
  background-color: rgba(204,204,204, 1); 
   font-weight: bold;
 }
